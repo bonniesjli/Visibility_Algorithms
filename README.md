@@ -1,8 +1,8 @@
-# Computational-Geometry
-Exploring the field of computational geometry under the mentorship of Dr. Anja Randecker from University of Toronto.
+# Visibility Algorithms
+A serie of visibility algorithms using ray casting techniques in JavaScript I wrote during the math mentorship program at the University of Toronto. 
 
-## Current Focus
-Linear Flow algorithm visualizing the visibility on a torus
+## Focus
+Linear Flow algorithm visualizing the visibility on a torus.
 
-Solve the art gallery problem on surfaces of higher genus
-
+## Ideas for Future Work
+Solve the art gallery problem on surfaces of higher genus.
